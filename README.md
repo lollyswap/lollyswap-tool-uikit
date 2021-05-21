@@ -1,2 +1,2 @@
-# lollyswap-toolkit
+# lollyswap-toolkit-uikit
 Toolkit for LollySwap
